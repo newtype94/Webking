@@ -1,3 +1,2 @@
-# webking
-Kim YongHoon
-- personal portfolio page
+# personal portfolio page
+link : www.webking.info (now closed)
